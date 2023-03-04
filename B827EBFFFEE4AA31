@@ -1,0 +1,20 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEE4AA31",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+
+    "fake_gps": true,
+    "ref_latitude": 35.70380,
+    "ref_longitude": 51.40874,
+    "ref_altitude": 50,
+    "contact_email": "hrhhemati@gmail.com",
+    "description": "Localization project- GW00 / Technical University of Amirkabir"
+  }
+}
